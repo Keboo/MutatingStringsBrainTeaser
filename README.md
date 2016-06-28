@@ -14,6 +14,7 @@ There are two unit tests that each make a couple assertions on a local string co
 
 ### How about some hints?
 [Hint 1](https://github.com/Keboo/MutatingStringsBrainTeaser/blob/master/MutatingStrings/MutatingStrings/MutatingStrings.csproj#L29)
+
 [Hint 2](https://en.wikipedia.org/wiki/String_interning) 
 
 ### Solution
