@@ -12,8 +12,12 @@ There are two unit tests that each make a couple assertions on a local string co
 3. No IL manipulation.
 4. You are free to make any modifications outside the Tests.cs file that you see fit (hint, none are required, but creative solutions are always welcome)
 
+### How about some hints?
+[Hint 1](https://github.com/Keboo/MutatingStringsBrainTeaser/blob/master/MutatingStrings/MutatingStrings/MutatingStrings.csproj#L29)
+[Hint 2](https://en.wikipedia.org/wiki/String_interning) 
+
 ### Solution
-When you have a solution that causes one or both of the unit tests to pass, feel free to submit a pull request. I am happy to comment and see the solutions people come up with. Extra points for pull requests that include a description explaining why their solution works.
+Though I recommend thinking on it rather than jumping straight to the solution. For those who have to know, [here it is](https://github.com/Keboo/MutatingStringsBrainTeaser/blob/solution/MutatingStrings/MutatingStrings/Tests.cs). You can see the full solution on the "solution" branch. (provided by [@savbace](https://github.com/savbace)).  
 
 ### But Why?
 Because brain teasers are fun and I love C#. As a professional developer I love learning the details of how my favorite language and its compiler work. 
